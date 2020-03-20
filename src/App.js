@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <div>
-        <h1>Ninja-dev-React-app</h1>
+        <h1><center>Ninja-Developers-React-App</center></h1>
       </div>
     </div>
   );
